@@ -9,5 +9,5 @@ per = 2 * (a + b)
 height = a * math.sin(kyt)
 area = a * height
 
-print(f"Периметр паралелограма: {per}")
-print(f"Площа паралелограма: {area}")
+print("Периметр паралелограма: " per)
+print("Площа паралелограма: " area)
