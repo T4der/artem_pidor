@@ -7,5 +7,5 @@ a_four = a_kvadr * a_kvadr
 a_visim = a_four * a_four
 a_sim = a_four * a_kvadr * a
 
-print(f"Число {a} в 7-ому степені: {a_sim}")
-print(f"Число {a} в 8-ому степені: {a_visim}")
+print("Число " a " в 7-ому степені: " a_sim)
+print("Число " a " в 8-ому степені: " a_visim)
