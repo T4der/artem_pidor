@@ -6,4 +6,4 @@ z = float(input("Введіть значення z: "))
 
 res = (3 + math.exp(y - 1)) / (1 + x ** 2 * abs(y - math.tan(z)))
 
-print(f"Результат: {res}")
+print("Результат: " res)
