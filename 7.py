@@ -9,4 +9,4 @@ thr_dob = 3*x_kvad
 
 res = 1 - 2 * x + thr_dob - four_dob
 
-print(f"Результат: {res}")
+print("Результат: " res)
